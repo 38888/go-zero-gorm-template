@@ -1,7 +1,7 @@
 import (
 	"context"
 	"database/sql"
-	"gormc"
+	"panda/common/gormc"
 	"strings"
 	{{if .time}}"time"{{end}}
 
